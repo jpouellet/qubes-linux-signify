@@ -1,0 +1,3 @@
+[submodule "signify"]
+	path = signify
+	url = https://github.com/aperezdc/signify

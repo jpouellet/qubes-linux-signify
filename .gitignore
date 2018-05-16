@@ -1,0 +1,4 @@
+.*.swp
+pkgs/
+rpm/
+srpm/
